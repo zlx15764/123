@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>雷电加速器</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>雷电加速器</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">首页</a></li>
+                    <li><a href="#download">下载</a></li>
+                    <li><a href="#features">功能</a></li>
+                    <li><a href="#pricing">价格</a></li>
+                    <li><a href="#help">帮助中心</a></li>
+                    <li><a href="#about">关于我们</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <section id="home">
+        <div class="container">
+            <h2>欢迎使用雷电加速器</h2>
+            <p>雷电加速器为您提供极速、稳定、安全的网络加速服务。</p>
+        </div>
+    </section>
+    
+    <section id="download">
+        <div class="container">
+            <h2>下载雷电加速器</h2>
+            <p>选择您的平台进行下载：</p>
+            <ul class="download-links">
+                <li><a href="download/windows">Windows</a></li>
+                <li><a href="download/macos">macOS</a></li>
+                <li><a href="download/ios">iOS</a></li>
+                <li><a href="download/android">Android</a></li>
+            </ul>
+        </div>
+    </section>
+    
+    <section id="features">
+        <div class="container">
+            <h2>功能亮点</h2>
+            <ul class="features-list">
+                <li>网络加速</li>
+                <li>隐私保护</li>
+                <li>全球节点</li>
+                <li>多设备支持</li>
+            </ul>
+        </div>
+    </section>
+    
+    <section id="pricing">
+        <div class="container">
+            <h2>价格计划</h2>
+            <p>选择适合您的订阅计划：</p>
+            <ul class="pricing-plans">
+                <li>月度计划 - ¥XX/月</li>
+                <li>季度计划 - ¥XX/季度</li>
+                <li>年度计划 - ¥XX/年</li>
+            </ul>
+        </div>
+    </section>
+    
+    <section id="help">
+        <div class="container">
+            <h2>帮助中心</h2>
+            <p>常见问题解答：</p>
+            <ul class="faq-list">
+                <li><a href="#faq1">如何安装雷电加速器？</a></li>
+                <li><a href="#faq2">如何联系客服？</a></li>
+            </ul>
+        </div>
+    </section>
+    
+    <section id="about">
+        <div class="container">
+            <h2>关于我们</h2>
+            <p>雷电加速器由XXX公司开发，我们致力于提供最优质的网络加速服务。</p>
+        </div>
+    </section>
+    
+    <footer>
+        <div class="container">
+            <p>版权所有 © 2024 雷电加速器</p>
+        </div>
+    </footer>
+</body>
+</html>
